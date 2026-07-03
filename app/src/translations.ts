@@ -79,7 +79,6 @@ const translations = {
       successMessage: "Contact us on whatsapp or discord send the receipt the game you wanted and your steam user.",
       contactWhatsApp: 'Contact on WhatsApp',
       contactDiscord: 'Contact on Discord',
-      instructions: 'Please send a screenshot of your payment receipt and your Steam username. We\'ll verify and deliver your keys within minutes.',
     },
     // How to Buy
     howToBuy: {
@@ -193,7 +192,6 @@ const translations = {
       successMessage: 'تواصل معانا على واتساب أو ديسكورد، وابعتلنا إيصال الدفع، واسم اللعبة اللي عايزها، واسم حسابك على ستيمً.',
       contactWhatsApp: 'تواصل عبر واتساب',
       contactDiscord: 'تواصل عبر ديسكورد',
-      instructions: 'يرجى إرسال لقطة شاشة من إيصال الدفع واسم مستخدم Steam الخاص بك. سنتحقق ونسلم مفاتيحك في دقائق.',
     },
     // How to Buy
     howToBuy: {
