@@ -18,16 +18,6 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
   const modalRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-  if (isOpen) {
-    document.body.style.overflow = 'hidden';
-  } else {
-    document.body.style.overflow = '';
-  }
-
-  return () => {
-    document.body.style.overflow = '';
-  };
-}, [isOpen]);
     if (isOpen && modalRef.current) {
       gsap.fromTo(
         modalRef.current,
@@ -74,7 +64,7 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
 
   return (
     <div
-      className="fixed inset-0 z-[300] flex items-center justify-center p-4 overflow-y-auto"
+      className="fixed inset-0 z-[300] flex items-center justify-center p-4"
       style={{ background: 'rgba(10,10,15,0.9)', backdropFilter: 'blur(8px)' }}
       onClick={handleClose}
     >
