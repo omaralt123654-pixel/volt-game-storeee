@@ -79,6 +79,7 @@ const translations = {
       successMessage: "Contact us on whatsapp or discord send the receipt the game you wanted and your steam user.",
       contactWhatsApp: 'Contact on WhatsApp',
       contactDiscord: 'Contact on Discord',
+      instructions: '.',
     },
     // How to Buy
     howToBuy: {
@@ -192,6 +193,7 @@ const translations = {
       successMessage: 'تواصل معانا على واتساب أو ديسكورد، وابعتلنا إيصال الدفع، واسم اللعبة اللي عايزها، واسم حسابك على ستيمً.',
       contactWhatsApp: 'تواصل عبر واتساب',
       contactDiscord: 'تواصل عبر ديسكورد',
+      instructions: '.',
     },
     // How to Buy
     howToBuy: {
