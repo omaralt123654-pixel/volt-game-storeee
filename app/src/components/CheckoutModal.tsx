@@ -64,7 +64,7 @@ export default function CheckoutModal({ isOpen, onClose }: CheckoutModalProps) {
 
   return (
     <div
-      className="fixed inset-0 z-[300] flex items-center justify-center p-4"
+      className="fixed inset-0 z-[300] flex items-center justify-center p-4 overflow-y-auto"
       style={{ background: 'rgba(10,10,15,0.9)', backdropFilter: 'blur(8px)' }}
       onClick={handleClose}
     >
