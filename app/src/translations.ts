@@ -14,7 +14,7 @@ const translations = {
     hero: {
       eyebrow: "EGYPT'S PREMIER GAME STORE",
       title: 'VOLT\nGAME STORE',
-      subtitle: 'Buy Steam games with Egyptian Pound. 181+ titles at unbeatable prices.',
+      subtitle: 'Buy Steam games with Egyptian Pound. 181+ titles.',
       cta: 'BROWSE GAMES',
       stats: {
         games: 'Steam Games',
@@ -73,7 +73,7 @@ const translations = {
       payWithBinance: 'Scan the QR code with Binance Pay',
       instapayComing: 'Coming soon! Stay tuned for instant bank transfers.',
       warningTitle: 'Important!',
-      warningText: 'Your Steam account must be a Ukraine region account or a fresh account without any purchased games. We are not responsible for keys activated on wrong region accounts.',
+      warningText: 'Your Steam account must be a Ukraine region account or a fresh account without any purchased games for more info contact us.',
       ivePaid: "I'VE PAID",
       successTitle: 'Payment Received!',
       successMessage: "We'll verify and send your Steam keys shortly.",
@@ -187,7 +187,7 @@ const translations = {
       payWithBinance: 'امسح رمز QR باستخدام بينانس باي',
       instapayComing: 'قريباً! ترقبوا التحويلات البنكية الفورية.',
       warningTitle: 'مهم!',
-      warningText: 'يجب أن يكون حساب Steam الخاص بك حساب منطقة أوكرانيا أو حساب جديد بدون أي ألعاب مشتراة. نحن غير مسؤولين عن المفاتيح المفعلة على حسابات المنطقة الخاطئة.',
+      warningText: 'يجب أن يكون حساب Steam الخاص بك من منطقة أوكرانيا، أو حسابًا جديدًا لا يحتوي على أي ألعاب تم شراؤها. لمزيد من المعلومات، التواصل معنا.',
       ivePaid: 'لقد دفعت',
       successTitle: 'تم استلام الدفع!',
       successMessage: 'سنتحقق ونرسل مفاتيح Steam الخاصة بك قريباً.',
